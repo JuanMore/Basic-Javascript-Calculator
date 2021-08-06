@@ -5,7 +5,7 @@ function getResult(id) {
   
   // Clears calculator input screen
   function clearScreen() {
-    document.calc.result.value="0";
+    document.calc.result.value="";
   }
   
   // Compute input values
